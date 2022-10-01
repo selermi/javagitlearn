@@ -5,9 +5,6 @@ public class hello {
         System.out.println("Hello of Git");
 
 
-        System.out.println("Hello world");
-        System.out.println("Hello Koray");
-
 
         System.out.println("Hello world");
         System.out.println("Hello Koray");
